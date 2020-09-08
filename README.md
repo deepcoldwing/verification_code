@@ -1,7 +1,7 @@
 # verification_code
 python+sklearn识别字母数字验证码
 
-各文件及文件夹解释
+## 各文件及文件夹解释
 image_after_split 切割后未标注的图片
 image_raw 未处理的图片验证码
 model_data 存放训练出来的模型
