@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @author: DeepCold
-@file: test_train.py
+@file: test_model.py
 @time: 2020/7/29 17:19
 """
 
@@ -37,4 +37,4 @@ def ocr_img(file_name):
 
 
 if __name__ == '__main__':
-    ocr_img("./test_img/test_img_1.png")
+    ocr_img("./test_img/test_img_2.png")

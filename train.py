@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 @author: DeepCold
-@file: train_data.py
+@file: train.py
 @time: 2020/7/29 16:14
 """
 import os
